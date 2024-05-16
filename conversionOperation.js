@@ -1,7 +1,7 @@
 let someNumber =33
 //number value String me change ho gayi hai
 let stringNumber = String(someNumber)
-<<<<<<< HEAD
+
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
 
@@ -31,7 +31,7 @@ console.log(1+2 +"3");
 let gameCounter = 100;
 ++gameCounter;
 console.log(gameCounter);
-=======
+
 console.log(stringNumber);
 console.log(typeof stringNumber);
->>>>>>> 39a9d2247316c8adcd9cf96d0f757dd0dc67f6a6
+
