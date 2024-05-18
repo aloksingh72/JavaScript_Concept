@@ -21,7 +21,7 @@ console.log(myArr);
 
 // join ka use karne se array ko string  me convert kar denge
 const newArr = myArr.join();
-console.log(myArr)
+// console.log(myArr)
 console.log(typeof newArr);
 
 // slice and splice in Array
