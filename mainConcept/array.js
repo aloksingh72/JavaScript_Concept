@@ -1,5 +1,5 @@
 // array
-
+// new array concept 
 const myArr = [0,3,7,7,4]
 const myHeors = ["capatinAmerica","IronMan","Hulk"];
 console.log(myHeors);
