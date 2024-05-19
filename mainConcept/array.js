@@ -7,6 +7,7 @@ const myArr2 = new Array (1,2,3,4);
 console.log(myArr2[1])
 
 //Array Methods
+//more to explore in console.log in bowser 
 myArr.push (9)
 myArr.push(10);
 console.log(myArr)
