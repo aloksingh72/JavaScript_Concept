@@ -9,6 +9,7 @@
 //symbol => uniqueness ke liye use karte hai
 
 //object
+// type of help to find the data type of an element 
 console.log(typeof "alok");
 console.log(typeof 12);
 // things to note that is here in javascipt null is an object 
