@@ -13,6 +13,7 @@
 console.log(typeof "alok");
 console.log(typeof 12);
 // things to note that is here in javascipt null is an object 
+//here null is a value means nothing
 console.log(typeof null);
 //while undefined is undefined types
 console.log(typeof undefined);
