@@ -1,6 +1,6 @@
 //---------------------DataTypes in javascript--------------
 
-
+// various types of data types like
 // number => having range if 2 to power 53
 // bigint => for very large numbers
 // string=>"" we write in double quotes
