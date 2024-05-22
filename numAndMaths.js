@@ -15,6 +15,7 @@ console.log(balance.toString().length);
 console.log(balance.toFixed(2));
 
 // toPrecision is used ki kitne digit taak value precisily leni hai
+// mostly used in trading and calculation enrich website
 const otherNumber =123.48509345
 console.log(otherNumber.toPrecision(4));
 
