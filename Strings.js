@@ -1,3 +1,5 @@
+// Strings concept 
+
 const name = "aloksingh";
 const repoCount = 150;
 // for string concatenation we use this way
