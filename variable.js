@@ -1,4 +1,5 @@
- //const let and var ki kahani
+// important concept of let and var and const
+//const let and var ki kahani
 
  const accountId = 125456
  let accountEmail = "aloksingh@gmail.com"
