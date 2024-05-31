@@ -15,6 +15,7 @@ means data copy kar ke diya jata hai exact memory ka refernce nhi diya jata hai
 const score =100;
 const scoreValue = 10.5;
 const isLoggesIn = false;
+//
 
 // here symbols is used for unique random values 
 const id = Symbol('123');
